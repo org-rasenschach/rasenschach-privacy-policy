@@ -1,10 +1,10 @@
-# Privacy Policy for Rasenschach Mobile
+# Privacy Policy for Rasenschach
 
 **Last Updated:** November 27, 2025
 
 ## Introduction
 
-This Privacy Policy describes how Rasenschach Mobile ("we", "our", or "us") collects, uses, and protects your personal information when you use our mobile application (the "App").
+This Privacy Policy describes how Rasenschach ("we", "our", or "us") collects, uses, and protects your personal information when you use our mobile application (the "App").
 
 By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -128,5 +128,5 @@ If you have any questions about this Privacy Policy or wish to exercise your rig
 
 ---
 
-*This Privacy Policy is effective as of November 27, 2025 and applies to all users of the Rasenschach Mobile App.*
+*This Privacy Policy is effective as of November 27, 2025 and applies to all users of the Rasenschach App.*
 

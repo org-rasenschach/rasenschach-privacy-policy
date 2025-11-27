@@ -1,10 +1,10 @@
-# Datenschutzerklärung für Rasenschach Mobile
+# Datenschutzerklärung für Rasenschach
 
 **Zuletzt aktualisiert:** 27. November 2025
 
 ## Einleitung
 
-Diese Datenschutzerklärung beschreibt, wie Rasenschach Mobile ("wir", "uns" oder "unser") Ihre persönlichen Informationen erfasst, verwendet und schützt, wenn Sie unsere mobile Anwendung (die "App") verwenden.
+Diese Datenschutzerklärung beschreibt, wie Rasenschach ("wir", "uns" oder "unser") Ihre persönlichen Informationen erfasst, verwendet und schützt, wenn Sie unsere mobile Anwendung (die "App") verwenden.
 
 Durch die Nutzung der App stimmen Sie der Erfassung und Verwendung von Informationen gemäß dieser Richtlinie zu.
 
@@ -128,5 +128,5 @@ Wenn Sie Fragen zu dieser Datenschutzerklärung haben oder Ihre Rechte ausüben 
 
 ---
 
-*Diese Datenschutzerklärung ist ab dem 27. November 2025 gültig und gilt für alle Benutzer der Rasenschach Mobile App.*
+*Diese Datenschutzerklärung ist ab dem 27. November 2025 gültig und gilt für alle Benutzer der Rasenschach App.*
 
