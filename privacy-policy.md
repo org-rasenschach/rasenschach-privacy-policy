@@ -1,6 +1,6 @@
 # Privacy Policy for Rasenschach Mobile
 
-**Last Updated:** [DATE]
+**Last Updated:** November 27, 2025
 
 ## Introduction
 
@@ -93,6 +93,10 @@ You have the right to:
 
 To exercise these rights, please contact us using the information provided below.
 
+### Account Deletion
+
+If you wish to delete your account and all associated data, please contact us at hello@rasen-schach.de. We will process your deletion request and remove your account and personal data within 30 days of receiving your request.
+
 ## Data Retention
 
 - We retain your account information for as long as your account is active
@@ -120,19 +124,9 @@ You are advised to review this Privacy Policy periodically for any changes.
 
 If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us:
 
-**Email:** [YOUR_EMAIL_ADDRESS]
-**Website:** [YOUR_WEBSITE_URL] (if applicable)
-
-## Additional Information
-
-### Data Controller
-[YOUR_COMPANY_NAME or YOUR_NAME]
-[YOUR_ADDRESS] (if applicable)
-
-### Data Protection Officer
-[CONTACT_INFO] (if applicable)
+**Email:** hello@rasen-schach.de
 
 ---
 
-*This Privacy Policy is effective as of [DATE] and applies to all users of the Rasenschach Mobile App.*
+*This Privacy Policy is effective as of November 27, 2025 and applies to all users of the Rasenschach Mobile App.*
 
